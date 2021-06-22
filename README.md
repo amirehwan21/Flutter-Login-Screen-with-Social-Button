@@ -3,6 +3,7 @@
 # login_screen
 
 A new Flutter project.
+This is for education purpose. Reference from [Marcus Ng Youtube Channel](https://www.youtube.com/watch?v=6kaEbTfb444)
 
 ## Getting Started
 
