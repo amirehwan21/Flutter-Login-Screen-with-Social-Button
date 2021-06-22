@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/34615664/122945124-ed0ec000-d3aa-11eb-953b-1d8dfa294cae.png" width="300" height="800">
+<img src="https://user-images.githubusercontent.com/34615664/122945124-ed0ec000-d3aa-11eb-953b-1d8dfa294cae.png" width="300" height="500">
 
 # login_screen
 
