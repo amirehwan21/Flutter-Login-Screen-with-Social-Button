@@ -1,4 +1,5 @@
-![simulator_screenshot_685E26A9-F80E-4E3B-B05A-44776FD50D30](https://user-images.githubusercontent.com/34615664/122945124-ed0ec000-d3aa-11eb-953b-1d8dfa294cae.png)
+<img src="https://user-images.githubusercontent.com/34615664/122945124-ed0ec000-d3aa-11eb-953b-1d8dfa294cae.png" width="100" height="100">
+
 # login_screen
 
 A new Flutter project.
